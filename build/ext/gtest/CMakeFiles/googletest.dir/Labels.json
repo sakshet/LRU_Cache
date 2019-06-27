@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/Users/sakshet/Desktop/Git/personal/lruCache/build/ext/gtest/CMakeFiles/googletest"
+		},
+		{
+			"file" : "/Users/sakshet/Desktop/Git/personal/lruCache/build/ext/gtest/CMakeFiles/googletest.rule"
+		},
+		{
+			"file" : "/Users/sakshet/Desktop/Git/personal/lruCache/build/ext/gtest/CMakeFiles/googletest-complete.rule"
+		},
+		{
+			"file" : "/Users/sakshet/Desktop/Git/personal/lruCache/build/ext/gtest/src/googletest-stamp/googletest-install.rule"
+		},
+		{
+			"file" : "/Users/sakshet/Desktop/Git/personal/lruCache/build/ext/gtest/src/googletest-stamp/googletest-mkdir.rule"
+		},
+		{
+			"file" : "/Users/sakshet/Desktop/Git/personal/lruCache/build/ext/gtest/src/googletest-stamp/googletest-download.rule"
+		},
+		{
+			"file" : "/Users/sakshet/Desktop/Git/personal/lruCache/build/ext/gtest/src/googletest-stamp/googletest-update.rule"
+		},
+		{
+			"file" : "/Users/sakshet/Desktop/Git/personal/lruCache/build/ext/gtest/src/googletest-stamp/googletest-patch.rule"
+		},
+		{
+			"file" : "/Users/sakshet/Desktop/Git/personal/lruCache/build/ext/gtest/src/googletest-stamp/googletest-configure.rule"
+		},
+		{
+			"file" : "/Users/sakshet/Desktop/Git/personal/lruCache/build/ext/gtest/src/googletest-stamp/googletest-build.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"googletest"
+		],
+		"name" : "googletest"
+	}
+}

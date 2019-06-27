@@ -1,0 +1,35 @@
+Start testing: Jun 27 10:54 BST
+----------------------------------------------------------
+1/1 Testing: cpp-lru-cache-test
+1/1 Test: cpp-lru-cache-test
+Command: "/Users/sakshet/Desktop/Git/personal/lruCache/build/cpp-lru-cache-test"
+Directory: /Users/sakshet/Desktop/Git/personal/lruCache/build
+"cpp-lru-cache-test" start time: Jun 27 10:54 BST
+Output:
+----------------------------------------------------------
+[==========] Running 3 tests from 2 test cases.
+[----------] Global test environment set-up.
+[----------] 2 tests from CacheTest
+[ RUN      ] CacheTest.SimplePut
+[       OK ] CacheTest.SimplePut (0 ms)
+[ RUN      ] CacheTest.MissingValue
+[       OK ] CacheTest.MissingValue (0 ms)
+[----------] 2 tests from CacheTest (0 ms total)
+
+[----------] 1 test from CacheTest1
+[ RUN      ] CacheTest1.KeepsAllValuesWithinCapacity
+[       OK ] CacheTest1.KeepsAllValuesWithinCapacity (1 ms)
+[----------] 1 test from CacheTest1 (1 ms total)
+
+[----------] Global test environment tear-down
+[==========] 3 tests from 2 test cases ran. (1 ms total)
+[  PASSED  ] 3 tests.
+<end of output>
+Test time =   0.04 sec
+----------------------------------------------------------
+Test Passed.
+"cpp-lru-cache-test" end time: Jun 27 10:54 BST
+"cpp-lru-cache-test" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Jun 27 10:54 BST
