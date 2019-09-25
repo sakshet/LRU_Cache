@@ -1,7 +1,6 @@
 def countOnSubarrays(a, queries):
     result = 0
     for query in queries:
-        print(a[query[0]:query[1]+1])
         result = result + a[query[0]:query[1]+1].count(query[2])
     return result
 
